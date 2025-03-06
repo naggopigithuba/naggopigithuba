@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naggopigithuba&label=Profile%20views&color=0e75b6&style=flat" alt="naggopigithuba" /> </p>
 
-- 🌱 I’m currently learning **LINUX**
 
-- 💬 Ask me about **HTML,CSS,Javascript,Python,SQl,PL-SQL**
+
+- 💬 Ask me about **HTML,CSS,Javascript,React JS,Python,SQl,PL-SQL**
 
 - 📫 How to reach me **naggopikorne@gmail.com**
 
