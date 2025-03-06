@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nagagopi Korne</h1>
-<h3 align="center">A passionate Software Engineer,frontend developer and Python Developer in indiain from India</h3>
+<h3 align="center">A passionate Software Engineer,frontend developer and Python Developer in India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naggopigithuba&label=Profile%20views&color=0e75b6&style=flat" alt="naggopigithuba" /> </p>
 
 
 
-- 💬 Ask me about **HTML,CSS,Javascript,React JS,Python,SQl,PL-SQL**
+- 💬 Ask me about *HTML,CSS,Javascript,React JS,Python,SQl*
 
-- 📫 How to reach me **naggopikorne@gmail.com**
+- 📫 How to reach me *naggopikorne@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naggopigithuba&show_icons=true&locale=en" alt="naggopigithuba" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naggopigithuba&" alt="naggopigithuba" /></p>
-
